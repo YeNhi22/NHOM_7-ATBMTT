@@ -74,7 +74,7 @@ Dự án được xây dựng bằng Python và Flask, nhằm thực hiện vi�
 cd secure-audio-chat</code></pre>
   </li>
   <li>Cài đặt thư viện:
-    <pre><code>pip install flask pycryptodome binascii</code></pre>
+    <pre><code>pip install flask pycryptodome</code></pre>
     <pre><code>pip install pydub</code></pre>
   </li>
   <li>Tạo khóa RSA (nếu chưa có):
