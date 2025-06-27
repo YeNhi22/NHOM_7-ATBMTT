@@ -116,7 +116,9 @@ cd secure-audio-chat</code></pre>
 <h3>Giao diện ứng dụng</h3>
 <p><strong>Giao diện chat 2 chiều với mã hóa bảo mật:</strong></p>
 <p align="center">
-  <img src="https://via.placeholder.com/800x500/4361ee/ffffff?text=Secure+Audio+Chat+Interface" alt="Giao diện chat bảo mật" width="800">
+  <img src="https://github.com/YeNhi22/NHOM_7-ATBMTT/blob/main/1.png" alt="Giao diện chat bảo mật" width="800">
+  <img src="https://github.com/YeNhi22/NHOM_7-ATBMTT/blob/main/2.png" alt="Giao diện chat bảo mật" width="800">
+  <img src="https://github.com/YeNhi22/NHOM_7-ATBMTT/blob/main/3.png" alt="Giao diện chat bảo mật" width="800">
 </p>
 
 <h3>Thông số kỹ thuật</h3>
