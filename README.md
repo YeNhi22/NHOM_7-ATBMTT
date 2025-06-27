@@ -149,6 +149,6 @@ cd secure-audio-chat</code></pre>
 
 <p align="center">
   <strong>Phát triển bởi:</strong><br>
-  <em>Khoa Công nghệ Thông tin - Đại học Đại Nam</em><br>
-  <em>Môn: An toàn Bảo mật Mạng máy tính</em>
+  <em>Nhóm 7 - CNTT 17-01 - Khoa Công nghệ Thông tin - Đại học Đại Nam</em><br>
+  <em>Môn: Nhập môn An toàn Bảo mật Thông tin</em>
 </p>
