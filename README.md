@@ -1,4 +1,4 @@
-<h3 align="center">Ứng dụng Chat Âm thanh Bảo mật</h3>
+<h1 align="center">Ứng dụng Chat Âm thanh Bảo mật</h1>
 <p>
 Dự án được xây dựng bằng Python và Flask, nhằm thực hiện việc giao tiếp âm thanh bảo mật sử dụng kết hợp nhiều thuật toán mã hóa tiên tiến: AES-256 CBC, RSA và SHA-256.
 </p>
